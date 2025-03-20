@@ -1,11 +1,11 @@
 <h3 align="center">full-stack developer from Egypt</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ali635&label=Profile%20views&color=0e75b6&style=flat"
-        alt="ali635" /> </p>
+
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
             src="https://github-profile-trophy.vercel.app/?username=ali635&row=1&column=6&theme=dracula" alt="ali635" /></a> </p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ali635&label=Profile%20views&color=0e75b6&style=flat"
+        alt="ali635" /> </p>
 - 🔭 I’m currently working on **front and back end development.**
 
 - 👯 I’m looking to collaborate on **open source projects.**
