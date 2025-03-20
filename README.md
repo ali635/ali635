@@ -4,7 +4,7 @@
         alt="ali635" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-            src="https://github-profile-trophy.vercel.app/?username=ali635&row=2&column=3&theme=dracula" alt="ali635" /></a> </p>
+            src="https://github-profile-trophy.vercel.app/?username=ali635&row=1&column=6&theme=dracula" alt="ali635" /></a> </p>
 
 - 🔭 I’m currently working on **front and back end development.**
 
