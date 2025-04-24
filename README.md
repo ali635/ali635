@@ -6,7 +6,7 @@
 </p>
 
 ## About Me
-I'm a passionate **Software Engineer** and **Full-stack Developer** with over **4 years of experience** building web and mobile applications. I specialize in **PHP**, **Laravel**, **JavaScript**, and **Angular**, with a focus on creating scalable, user-friendly solutions like **CRM systems**, **e-commerce platforms**, and **custom web apps**. My recent projects include a hospital management system (MediBooki) and an agricultural platform (Mazra3ty). 
+I'm a passionate **Software Engineer** and **Full-stack Developer** with over **3 years of experience** building web and mobile applications. I specialize in **PHP**, **Laravel**, **JavaScript**, and **Angular**, with a focus on creating scalable, user-friendly solutions like **CRM systems**, **e-commerce platforms**, and **custom web apps**. My recent projects include a hospital management system (MediBooki) and an agricultural platform (Mazra3ty). 
 
 - 🔭 **Currently working on**: Back-end development at E-motion, building CMS dashboards and APIs with Laravel and FilamentPHP.
 - 🌱 **Learning**: Advanced GraphQL and Flutter for cross-platform apps.
